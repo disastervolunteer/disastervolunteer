@@ -10,3 +10,8 @@
 ### Vue作为前端开发框架
 
 ### MySQL数据库进行后端支撑
+
+[English README](README.md)
+
+
+[Platform message publish website](https://disastervolunteer.github.io)
