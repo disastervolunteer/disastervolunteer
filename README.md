@@ -13,9 +13,8 @@
 
 
 
+[Platform message publish website](https://disastervolunteer.github.io)
+
 
 [中文版README](README-CN.md)
-
-
-[Platform message publish website](https://disastervolunteer.github.io)
 
