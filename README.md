@@ -17,5 +17,5 @@
 [中文版README](README-CN.md)
 
 
-[平台消息发布首页](https://disastervolunteer.github.io)
+[Platform message publish website](https://disastervolunteer.github.io)
 
