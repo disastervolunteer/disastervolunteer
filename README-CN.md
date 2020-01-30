@@ -14,4 +14,5 @@
 [English README](README.md)
 
 
-[Platform message publish website](https://disastervolunteer.github.io)
+
+[平台消息发布首页](https://disastervolunteer.github.io)
